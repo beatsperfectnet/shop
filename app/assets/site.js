@@ -1,4 +1,4 @@
-import { brand, disclosure, featuredSlugs, filters, nav, products } from "./data.js?v=20260624-single-product";
+import { brand, disclosure, featuredSlugs, filters, nav, products } from "./data.js?v=20260630-etsy-pricing";
 
 const page = document.body.dataset.page || "home";
 const params = new URLSearchParams(window.location.search);
